@@ -1,0 +1,44 @@
+body,html {
+    background: url(./images/background/BG2\ Nailed.jpeg)center no-repeat;
+    background-size: cover; 
+    background-position: center; 
+    justify-content: center;
+    align-items: center; 
+}
+h1 {
+    text-align: center;
+    color: black;
+}
+p {
+    text-align: center;
+    font-style: italic;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+table {
+    text-align: center;
+    width: 45%; 
+    margin-bottom: 20px; 
+    border-collapse: collapse; 
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+}
+td {
+    text-align: center;
+}
+caption {
+    caption-side: top; 
+    text-align: center;
+
+}
